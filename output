@@ -1,0 +1,291 @@
+Puma starting in single mode...
+* Version 4.3.1 (ruby 2.6.3-p62), codename: Mysterious Traveller
+* Min threads: 0, max threads: 16
+* Environment: development
+* Listening on tcp://127.0.0.1:4567
+* Listening on tcp://[::1]:4567
+Use Ctrl-C to stop
+Parameters: {}
+Parameters: {}
+Parameters: {"q"=>"detroit"}
+{"status"=>"ok",
+ "totalResults"=>38,
+ "articles"=>
+  [{"source"=>{"id"=>"polygon", "name"=>"Polygon"},
+    "author"=>"Owen S. Good",
+    "title"=>"Red Dead Redemption 2 gets a ‘Hot Coffee’ mod - Polygon",
+    "description"=>
+     "A Red Dead Redemption 2 modder who created an homage to Grand Theft Auto: San Andreas’ scandalous “Hot Coffee” sex minigame has been told by a Rockstar Games lawyer to take it down.",
+    "url"=>
+     "https://www.polygon.com/pc/2020/2/22/21148817/red-dead-redemption-2-hot-coffee-mod-download-pc",
+    "urlToImage"=>
+     "https://cdn.vox-cdn.com/thumbor/aR6JHMYLLMvYtTYJA08FzSXZ73o=/0x38:1919x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19739197/191_1581477820_1385911945.png",
+    "publishedAt"=>"2020-02-22T21:35:02Z",
+    "content"=>
+     "Someone made a Hot Coffee mod for Red Dead Redemption 2, and the creator says Rockstar Games almost instantly sent them a demand to cease and desist with the callback to Grand Theft Auto: San Andreas AO-rated scandal from 15 years ago.\r\n" +
+     "Hot Coffee is, for now… [+2667 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Electrek.co"},
+    "author"=>nil,
+    "title"=>
+     "Tesla Cybertruck with laser blade lights shows up at esports Dota 2 game event - Electrek",
+    "description"=>
+     "The Tesla Cybertruck prototype was used to shuttle players into a gaming competition today, and we got a good look at the “upper laser blade lights” which will come standard on the truck, as CEO Elon Musk announced yesterday. In addition, the truck showed up …",
+    "url"=>
+     "https://electrek.co/2020/02/22/tesla-cybertruck-with-laser-blade-lights-shows-up-at-esports-dota-2-game-event/",
+    "urlToImage"=>
+     "https://electrek.co/wp-content/uploads/sites/3/2020/02/esports.jpg?resize=1024,505",
+    "publishedAt"=>"2020-02-22T21:21:00Z",
+    "content"=>
+     "The Tesla Cybertruck prototype was used to shuttle players into a gaming competition today, and we got a good look at the “upper laser blade lights” which will come standard on the truck, as CEO Elon Musk announced yesterday.\r\n" +
+     "In addition, the truck showed up… [+5032 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Youtube.com"},
+    "author"=>nil,
+    "title"=>
+     "(Subtitled) BTS Talk Identity Crisis, New Album 'Map of the Soul: 7' - Variety",
+    "description"=>
+     "For us BTS stans who prefer subtitles! BTS, in an interview with Variety, open up about the confusion, creativity and inspiration behind their new album, ’Ma...",
+    "url"=>"https://www.youtube.com/watch?v=7fVQGcvgmEQ",
+    "urlToImage"=>"https://i.ytimg.com/vi/7fVQGcvgmEQ/maxresdefault.jpg",
+    "publishedAt"=>"2020-02-22T21:16:52Z",
+    "content"=>
+     "For us BTS stans who prefer subtitles!\r\n" +
+     "BTS, in an interview with Variety, open up about the confusion, creativity and inspiration behind their new album, Map of the Soul: 7.\r\n" +
+     "http://bit.ly/VarietySubscribe\r\n" +
+     "http://www.facebook.com/varietyhttp://www.instagram… [+41 chars]"},
+   {"source"=>{"id"=>"usa-today", "name"=>"USA Today"},
+    "author"=>"Brett Kelman",
+    "title"=>
+     "Two fugitives arrested in connection with missing Tennessee toddler Evelyn Boswell - USA TODAY",
+    "description"=>
+     "William McCloud and Angela Boswell were arrested in North Carolina in connection to the disappearance of Tennessee toddler Evelyn Boswell.",
+    "url"=>
+     "https://www.usatoday.com/story/news/nation/2020/02/22/evelyn-boswell-2-arrested-connection-missing-tennessee-girl/4842693002/",
+    "urlToImage"=>
+     "https://www.gannett-cdn.com/presto/2020/02/20/PKNS/21accb09-d600-4fd7-aba5-1d7094f1d79e-TBI_Amber_Alert.png?crop=799,450,x0,y80&width=1600&height=800&fit=bounds",
+    "publishedAt"=>"2020-02-22T20:52:39Z",
+    "content"=>
+     "Evelyn Mae Boswell was reportedly last seen on December 26, 2019, the agency said. She was reported as a missing child on February 18.\r\n" +
+     "Knoxville\r\n" +
+     "Two fugitives have been arrested in North Carolina in  the disappearance of Tennessee toddler Evelyn Boswell.\r\n" +
+     "W… [+2496 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Nypost.com"},
+    "author"=>"Steven W. Mosher",
+    "title"=>
+     "Don't buy China's story: The coronavirus may have leaked from a lab - MarketWatch",
+    "description"=>
+     "At an emergency meeting in Beijing held last Friday, Chinese leader Xi Jinping spoke about the need to contain the coronavirus and set up a system to prevent similar epidemics in the future. A nati…",
+    "url"=>
+     "https://nypost.com/2020/02/22/dont-buy-chinas-story-the-coronavirus-may-have-leaked-from-a-lab/",
+    "urlToImage"=>
+     "https://thenypost.files.wordpress.com/2020/02/afp_1or8re.jpg?quality=90&strip=all&w=1200",
+    "publishedAt"=>"2020-02-22T20:39:00Z",
+    "content"=>
+     "At an emergency meeting in Beijing held last Friday, Chinese leader Xi Jinping spoke about the need to contain the coronavirus and set up a system to prevent similar epidemics in the future.\r\n" +
+     "A national system to control biosecurity risks must be put in place… [+4679 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Youtube.com"},
+    "author"=>nil,
+    "title"=>
+     "GOTTA SEE IT: Alex Ovechkin Makes History By Scoring 700th Career Goal - SPORTSNET",
+    "description"=>
+     "Watch as Alex Ovechkin reaches 700 career goals with this tally. ---------------------------------------------- Subscribe to Sportsnet on YouTube - http://sp...",
+    "url"=>"https://www.youtube.com/watch?v=11eCWB1sJxg",
+    "urlToImage"=>"https://i.ytimg.com/vi/11eCWB1sJxg/maxresdefault.jpg",
+    "publishedAt"=>"2020-02-22T20:27:00Z",
+    "content"=>
+     "Watch as Alex Ovechkin reaches 700 career goals with this tally.---------------------------------------------- \r\n" +
+     "Subscribe to Sportsnet on YouTube - http://sprtsnt.ca/2paAT2L\r\n" +
+     "Visit Sportsnet.ca for more sports news and highlights - http://www.sportsnet.caFol… [+272 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Cbssports.com"},
+    "author"=>"",
+    "title"=>
+     "Deontay Wilder vs. Tyson Fury 2: Fight preview, what's at stake, tale of the tape - CBS Sports",
+    "description"=>
+     "The mega rematch is upon us and our preview gets you ready for what to expect in Las Vegas on Saturday night",
+    "url"=>
+     "https://www.cbssports.com/boxing/news/deontay-wilder-vs-tyson-fury-2-fight-preview-whats-at-stake-tale-of-the-tape/",
+    "urlToImage"=>
+     "https://sportshub.cbsistatic.com/i/r/2020/02/21/29433587-afdb-4d8d-aa39-109273de6235/thumbnail/1200x675/c06aefe1e0f839ca52aae379ca5114d6/wilder-fury-fists.jpg",
+    "publishedAt"=>"2020-02-22T20:00:00Z",
+    "content"=>
+     "LAS VEGAS -- Long the lifeblood of the viability of crossover boxing, the heavyweight division within the sport adds a certain unique gravitas to a pay-per-view championship fight that produces nostalgic feels for the days when the sport was still front-page … [+10959 chars]"},
+   {"source"=>{"id"=>"cbs-news", "name"=>"CBS News"},
+    "author"=>"Sophie Lewis",
+    "title"=>
+     "NASA satellite images reveal dramatic melting in Antarctica after record heat wave - CBS News",
+    "description"=>
+     "New snapshots capture the 20% loss of snow on Eagle Island after Antarctica hit a record-breaking 64.9 degrees Fahrenheit earlier this month.",
+    "url"=>
+     "https://www.cbsnews.com/news/nasa-satellite-images-dramatic-melting-antarctica-record-heat-wave/",
+    "urlToImage"=>
+     "https://cbsnews3.cbsistatic.com/hub/i/r/2020/02/22/871749ca-51c5-493f-9dd2-f2967b500bad/thumbnail/1200x630/3a9a67a54dff9fe045d360902615ec4b/eagleisland-oli-2020044.jpg",
+    "publishedAt"=>"2020-02-22T19:58:00Z",
+    "content"=>
+     "Earlier this month, temperatures in Antarctica appeared to reach a record-breaking 64.9 degrees Fahrenheit, matching the temperature in Los Angeles that day. New images released by NASA show the dramatic ice melt caused by the heat wave, a phenomenon that is … [+3453 chars]"},
+   {"source"=>{"id"=>"reuters", "name"=>"Reuters"},
+    "author"=>"Jonathan Stempel",
+    "title"=>
+     "Buffett defends Berkshire stock push, reassures on future as profit smashes record - Reuters",
+    "description"=>
+     "Warren Buffett on Saturday forcefully defended Berkshire Hathaway Inc's decision to invest heavily in stocks of companies such as Apple Inc as he labors through a four-year drought since his last major acquisition of a company.",
+    "url"=>
+     "https://www.reuters.com/article/us-berkshire-buffett-idUSKCN20G0S0",
+    "urlToImage"=>
+     "https://s2.reutersmedia.net/resources/r/?m=02&d=20200222&t=2&i=1493854561&w=1200&r=LYNXNPEG1L0LD",
+    "publishedAt"=>"2020-02-22T19:49:00Z",
+    "content"=>
+     "NEW YORK (Reuters) - Warren Buffett on Saturday forcefully defended Berkshire Hathaway Inc’s (BRKa.N) decision to invest heavily in stocks of companies such as Apple Inc (AAPL.O) as he labors through a four-year drought since his last major acquisition of a c… [+5274 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Npr.org"},
+    "author"=>"",
+    "title"=>
+     "Coronavirus Update: Cases Leap Again In South Korea, As Officials Warn Africa : Goats and Soda - NPR",
+    "description"=>
+     "The tally of new cases is declining in China, the heart of the outbreak. But rising numbers beyond its borders have officials worried, including for regions that have scarcely seen the virus so far.",
+    "url"=>
+     "https://www.npr.org/sections/goatsandsoda/2020/02/22/808440540/coronavirus-cases-triple-in-south-korea-who-keeps-eye-on-africa-iran",
+    "urlToImage"=>
+     "https://media.npr.org/assets/img/2020/02/22/gettyimages-1207679745_wide-fa9b3c30ff18ed5bf2232cec72bb33d1608f9953.jpg?s=1400",
+    "publishedAt"=>"2020-02-22T19:43:00Z",
+    "content"=>
+     "A medical worker takes a look outside a preliminary testing facility at the National Medical Center in Seoul, South Korea, where people suspected of having contracted the novel strain of coronavirus are being tested.\r\n" +
+     "Chung Sung-Jun/Getty Images\r\n" +
+     "The number o… [+3844 chars]"},
+   {"source"=>{"id"=>"the-washington-post", "name"=>"The Washington Post"},
+    "author"=>"Meryl Kornfield",
+    "title"=>
+     "911 operators couldn’t trace the location of a dying student’s phone. It’s a growing issue. - The Washington Post",
+    "description"=>
+     "The college student's garbled 911 call is the latest tragedy to plague emergency call systems.",
+    "url"=>
+     "https://www.washingtonpost.com/health/2020/02/22/student-died-911-call-location/",
+    "urlToImage"=>
+     "https://www.washingtonpost.com/resizer/_PI7gWyOrPvCkveTF-PGognUfkk=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/INTRVASVVEI6VAGOG6UNIJTMBE.jpg",
+    "publishedAt"=>"2020-02-22T19:41:00Z",
+    "content"=>
+     "Six hours later, the Rensselaer Polytechnic Institute students roommate discovered his body, the Times Union first reported.\r\n" +
+     "The case highlights issues that have plagued 911 phone systems across the country since the advent of smartphones. Cellphone privacy … [+4629 chars]"},
+   {"source"=>{"id"=>"cnbc", "name"=>"CNBC"},
+    "author"=>"Jacob Pramuk",
+    "title"=>
+     "Nevada Democratic caucus is too early to call as Sanders leads initial voting: NBC News - CNBC",
+    "description"=>
+     "Nevada Democrats caucus on Saturday as they choose their 2020 presidential favorites among Sanders, Biden, Warren and Buttigieg and others.",
+    "url"=>
+     "https://www.cnbc.com/2020/02/22/nevada-caucus-2020-live-results-and-updates.html",
+    "urlToImage"=>
+     "https://image.cnbcfm.com/api/v1/image/106404448-1582402700029gettyimages-1202639213.jpeg?v=1582402789",
+    "publishedAt"=>"2020-02-22T19:40:00Z",
+    "content"=>
+     "The Nevada Democratic presidential caucus is too early to call Saturday afternoon as entrance polls indicate Sen. Bernie Sanders has a significant lead in the initial round of voting, according to NBC News. \r\n" +
+     "Nevada Democrats are choosing their presidential f… [+4230 chars]"},
+   {"source"=>{"id"=>"bleacher-report", "name"=>"Bleacher Report"},
+    "author"=>"Adam Wells",
+    "title"=>
+     "Udoka Azubuike, No. 3 Kansas Topple No. 1 Baylor 64-61 in Crucial Big 12 Clash - Bleacher Report",
+    "description"=>
+     "The No. 3 Kansas Jayhawks ended the Baylor Bears' 23-game winning streak with a 64-61 victory at the Ferrell Center on Saturday...",
+    "url"=>
+     "https://bleacherreport.com/articles/2877472-udoka-azubuike-no-3-kansas-topple-no-1-baylor-64-61-in-crucial-big-12-clash",
+    "urlToImage"=>
+     "https://img.bleacherreport.net/img/images/photos/003/853/905/hi-res-dc0bcf6fe05d037b87b0e719385c4e60_crop_exact.jpg?w=1200&h=1200&q=75",
+    "publishedAt"=>"2020-02-22T19:12:21Z",
+    "content"=>
+     "Ray Carlin/Associated Press\r\n" +
+     "The No. 3 Kansas Jayhawks ended the Baylor Bears' 23-game winning streak with a 64-61 victory at the Ferrell Center on Saturday.\r\n" +
+     "In addition to snapping Baylor's Big 12-record streak, Kansas tied the nation's top-ranked team atop… [+5252 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Mercurynews.com"},
+    "author"=>"Leonardo Castañeda",
+    "title"=>
+     "Rescued: Palo Alto couple found alive after vanishing a week ago - The Mercury News",
+    "description"=>
+     "A Palo Alto couple who had gone missing last Friday has been found alive, according to the Marin County sheriff’s department",
+    "url"=>
+     "https://www.mercurynews.com/missing-palo-alto-couple-found-alive-extraction-ongoing",
+    "urlToImage"=>
+     "https://www.mercurynews.com/wp-content/uploads/2020/02/SJM-L-PACOUPLE-0220.png?w=1024&h=576",
+    "publishedAt"=>"2020-02-22T19:04:00Z",
+    "content"=>
+     "A Palo Alto couple who had gone missing for about a week near Chicken Ranch Beach was found alive Saturday, the Marin County Sheriff’s department announced on Twitter Saturday morning.\r\n" +
+     "The disappearance of Carol Kiparsky, 77, and Ian Irwin, 72, had baffled s… [+2644 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Macrumors.com"},
+    "author"=>"Juli Clover",
+    "title"=>
+     "Apple TV Gen X, Apple iPod Touch X Generation, and Apple Watch Series X Bands Also Listed in Target Inventory - MacRumors",
+    "description"=>
+     "Target's inventory system may be leaking details on upcoming Apple products that are set to be released in the near future. A listing for...",
+    "url"=>
+     "https://www.macrumors.com/2020/02/22/target-inventory-apple-tv-ipod-touch/",
+    "urlToImage"=>
+     "https://images.macrumors.com/article-new/2020/02/target-inventory-apple-tv.jpg",
+    "publishedAt"=>"2020-02-22T18:22:00Z",
+    "content"=>
+     "Target's inventory system may be leaking details on upcoming Apple products that are set to be released in the near future. A listing for \"Airpods (X Generation)\" with a price tag of $399 popped up this morning, and there are also apparently new listings for … [+2087 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Wowt.com"},
+    "author"=>"Rachel Urbanski",
+    "title"=>"UPDATE: CDC on coronavirus health emergency - WOWT",
+    "description"=>
+     "The CDC stresses that the coronavirus is not spreading rapidly in the U.S. but it could happen.",
+    "url"=>
+     "https://www.wowt.com/content/news/UPDATE-CDC-on-coronavirus-health-emergency--568109711.html",
+    "urlToImage"=>"https://media.graytvinc.com/images/coronavirus+mgn2.jpg",
+    "publishedAt"=>"2020-02-22T18:18:44Z",
+    "content"=>
+     "OMAHA, Neb. (WOWT) -- The CDC stresses that the coronavirus is not spreading rapidly in the U.S. but it could happen.\r\n" +
+     "As of tonight, 35 Americans in our country have tested positive for covid-19. The CDC breaks down those numbers: 18 of those were passengers… [+1494 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Deadline.com"},
+    "author"=>"Bruce Haring, Bruce Haring",
+    "title"=>
+     "Prince Harry And Meghan Will Drop “Royal” From Their Branding, Claim Queen Has No Jurisdiction On Word - Deadline",
+    "description"=>
+     "Prince Harry and Meghan Markle are apparently engaged in a version of that old children’s insult comeback, “I know you are, but what am I?” The Duke and Duchess of Sussex posted a…",
+    "url"=>
+     "https://deadline.com/2020/02/meghan-harry-drop-royal-from-sussex-brand-queen-no-jurisdiction-over-word-1202866130/",
+    "urlToImage"=>
+     "https://pmcdeadline2.files.wordpress.com/2020/01/shutterstock_editorial_10520014ag.jpg?w=1024",
+    "publishedAt"=>"2020-02-22T17:40:00Z",
+    "content"=>
+     "Prince Harry and Meghan Markle are apparently engaged in a version of that old children’s insult comeback, “I know you are, but what am I?”\r\n" +
+     "The Duke and Duchess of Sussex posted a statement on their website late on Friday claiming that the Queen does not own… [+1195 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Youtube.com"},
+    "author"=>nil,
+    "title"=>
+     "'Friends' Cast Were Just On A Break; Stars Confirm Reunion Special | TODAY - TODAY",
+    "description"=>
+     "The cast of “Friends” were just on a break! All six actors have officially confirmed they will reunite for an unscripted special on HBO Max in May 2020. » Su...",
+    "url"=>"https://www.youtube.com/watch?v=BDms9taEWDg",
+    "urlToImage"=>"https://i.ytimg.com/vi/BDms9taEWDg/maxresdefault.jpg",
+    "publishedAt"=>"2020-02-22T17:01:38Z",
+    "content"=>
+     "[[getSimpleString(data.title)]]\r\n" +
+     "[[getSimpleString(data.description)]]\r\n" +
+     "[[getSimpleString(data.videoCountText)]]"},
+   {"source"=>{"id"=>"usa-today", "name"=>"USA Today"},
+    "author"=>"Grace Hauck",
+    "title"=>
+     "Blagojevich calling himself a political prisoner is 'nuts,' Cooper says in heated interview - USA TODAY",
+    "description"=>
+     "Ex-Illinois Gov. Rod Blagojevich again called himself a 'political prisoner' on CNN. Anderson Cooper wasn't having it.",
+    "url"=>
+     "https://www.usatoday.com/story/news/politics/2020/02/22/blagojevich-pardon-anderson-cooper-calls-out-political-prisoner-claim/4841660002/",
+    "urlToImage"=>
+     "https://www.gannett-cdn.com/presto/2020/02/22/USAT/8b56440c-15b8-4e8c-a936-5a5506f82e63-AP20050721506323.jpg?crop=3129,1760,x0,y0&width=3129&height=1760&format=pjpg&auto=webp",
+    "publishedAt"=>"2020-02-22T16:48:09Z",
+    "content"=>
+     "Ex-Illinois Gov. Rod Blagojevich again proclaimed himself a \"political prisoner\" Friday night in a heated interview with CNN's Anderson Cooper.\r\n" +
+     "Blagojevich, a one-time contestant on \"The Celebrity Apprentice,\" was convicted in 2011 of federal charges of usin… [+2875 chars]"},
+   {"source"=>{"id"=>nil, "name"=>"Vox.com"},
+    "author"=>"Anya van Wagtendonk",
+    "title"=>
+     "Bernie Sanders condemns Russian interference into his campaign - Vox.com",
+    "description"=>
+     "Russia is interfering in the Sanders campaign, but the chaos is good for Trump.",
+    "url"=>
+     "https://www.vox.com/policy-and-politics/2020/2/22/21148415/sanders-russian-interference-2020-campaign-trump",
+    "urlToImage"=>
+     "https://cdn.vox-cdn.com/thumbor/U3eyFWYASI7nGdxMOHa7fHFkSW8=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19738806/GettyImages_1202328958.jpg",
+    "publishedAt"=>"2020-02-22T16:09:19Z",
+    "content"=>
+     "Officials told Sen. Bernie Sanders, President Donald Trump, and other lawmakers last month that Russia has attempted to aid Sanders election campaign, according to reporting Friday from the Washington Post.\r\n" +
+     "The news emerged a day after the New York Times rep… [+5946 chars]"}]}
+- Gracefully stopping, waiting for requests to finish
+=== puma shutdown: 2020-02-23 23:01:23 +0000 ===
+- Goodbye!

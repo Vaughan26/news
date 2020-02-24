@@ -1,0 +1,37 @@
+ h1 {
+     
+        font-family: 'Bangers', cursive;   
+   }
+    h2 {
+        color:rgb(0, 204, 255);
+        font-family: 'Zhi Mang Xing', cursive;
+         text-align: center;
+    } 
+
+.table h1{
+    font-family: 'Orbitron', sans-serif;
+    background-color: violet;
+}
+
+.header h1{
+    font-family: 'Vidaloka', serif; 
+}
+
+.media img{
+    width: 64px;
+    height: 64px;
+}
+
+.hank img{
+    width: 100px;
+    height: 100px;
+}
+
+.customers{
+    background-color: rgba(128, 0, 0, 0.034);
+}
+.customers h2 { 
+font-family: sans-serif;
+    font-style: oblique;
+    color: black;
+}

@@ -22,11 +22,49 @@
     <h1><%= @location %></h1>
     <div class="container mt-5">
       <h1>Weather and News</h1>
+     
+     <div class="table py-4">
+      <div class="container">
+        <div class="row">
+         <div class="col text-center">
+          <table class="table">      
+            <thead>
+                <table class="table table table-striped table-dark table-hover">
+                    <thead >
+                      <tr>
+                        <td class="w-25"></td>
+                        <td class="w-25"></td>
+                        </tr>
+                    </thead >
+                    <tbody>
+                      <tr>
+              <tr>
+                <th></th>
+                <th>Today</th>
+             </tr>
+            </thead >
+            <tbody>
+              <tr>
+                <th>Current Temperature</th>
+                <td><%= @current_temperature %> </td>
+                </tr>
+              <tr>
+                <th>Current Wind</th>
+                <td><%= @current_conditions %></td>
+              </tr>
+         
+            </tbody>
+          </table> 
+        </div> 
+      </div>
+     </div>
+    </div>
+  <tbody>
       <p>
-       Current Temperature = <%= @current_temperature %>    
+         
        </p>
        <p>
-       Current Forecast = <%= @current_conditions %>
+       
        </>
     </div>
     <div>
